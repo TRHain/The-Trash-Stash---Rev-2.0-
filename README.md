@@ -1,25 +1,32 @@
-all rights reserved 
+# Trash Stash™ — Rev 2.0
 
-Copyright (c) 2026 Trevor Ryan
+Designed and developed by **Echo Werks LLC**  
+Boulder, Colorado, USA
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Trash Stash™ is a compact modular jobsite trash container designed for electricians, AV technicians, HVAC professionals, carpenters, low-voltage installers, maintenance teams and makers.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Website
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
- 
+The responsive product landing page is included as `index.html`.
 
-# The-Trash-Stash---Rev-2.0-
-Created July 25th by Echo Werks LLC Boulder 
+Deployment and domain-forwarding instructions are available in `DEPLOYMENT.md`.
+
+## Intellectual Property Notice
+
+© 2026 Echo Werks LLC. All rights reserved.
+
+**Trash Stash™**, **Hardware Saver™**, the Trash Stash product appearance, associated product documentation, imagery, CAD models, prototypes, mounting interfaces and manufacturing methods are proprietary intellectual property of Echo Werks LLC except where a separate written license explicitly states otherwise.
+
+No permission is granted to copy, reproduce, modify, manufacture, distribute, sell, sublicense or create derivative works from the proprietary materials in this repository without prior written authorization from Echo Werks LLC.
+
+The ™ symbol identifies marks claimed by Echo Werks LLC. The ® symbol should be used only for marks that have completed applicable trademark registration.
+
+## Revision Record
+
+- Product revision: **2.0**
+- Public documentation repository established: **July 2026**
+- Website landing page added: **July 2026**
+
+## Important
+
+This repository and its commit history provide a dated development record. They do not replace formal trademark, copyright, design-patent or utility-patent filings, and nothing in this repository constitutes legal advice.
